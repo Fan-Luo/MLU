@@ -1,0 +1,12 @@
+This class serves to understand some popular deep learning solutions to the most challenging NLP applications such as Answer Selection for Question Answering, Named Entity Recognition, Text Generation, Reading Comprehension and Dialogue Systems.
+One of the main objectives is to learn what are the fundamental deep learning models most effective to solve these NLP problems and understand their pros and cons with respect to classical machine learning and heuristic approaches.
+The homework is designed to minimize the amount of data preprocessing and evaluation code that students need to write. Students only need to implement a key method (e.g. the forward pass) of an DL. Documentation contained in the notebook will describe the expected results that students should see if their implementations are correct.
+Key Competencies
+Draw relationships between Amazon business problems and NLP problems to leverage existing neural network solutions. Use modern libraries to construct, train and evaluate neural network architectures. Iteratively improve solutions by refining the architectures, adjusting hyperparameters or improving the training procedures using quantitative and qualitative evaluations.
+
+Pre-Requisites
+Basics of Python - including Classes, Functions and Numpy
+Using of Jupyter Notebooks
+Basic linear algebra and probability theory
+MLU Accelerated - Natural Language Processing
+Note: MLU Application - Natural Language Processing 1 is not a pre-requisite for this course
