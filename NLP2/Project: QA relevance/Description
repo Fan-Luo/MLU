@@ -1,0 +1,12 @@
+Predict the relevance of an answer related to the question asked
+Created by: jcsantos@ANT.AMAZON.COM
+
+Deadline: July 22, 2021, 5 p.m. PST
+
+Description
+The project focuses on answer selection and uses the WikiQA dataset. Each record in the dataset has a question, answer and relevance score. The relevance score is binary, 1/0 indicating whether the answer is relevant to the question. Further details to accomplish this can be found in your final project notebook.
+
+Metrics description
+This contest is using the following metric to measure submissions quality: F1
+
+Target column: relevance
